@@ -52,13 +52,22 @@ This study demonstrates the potential of deep learning models in improving skin 
 
 **References**
 
-Codella, N. C., et al., "Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium," arXiv:1710.05006, 2017.
-Tan, M., and Le, Q. V., "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks," arXiv:1905.11946, 2019.
-He, T., et al., "Bag of Tricks for Image Classification with Convolutional Neural Networks," arXiv:1812.01187, 2018.
-"Skin Cancer Detection Using CNN," IEEE Xplore.
-"The detection and classification of melanoma skin cancer using support vector machine," IEEE Xplore.
-"The potential for artificial intelligence in healthcare," PMC.
-"Detection of Skin Diseases from Dermoscopy Image Using the combination of Convolutional Neural Network and One-versus-All," IEC Science.
-Doe, J., et al., "Data augmentation for skin lesion using self-attention based progressive generative adversarial network," Expert Systems with Applications, 2020.
-Smith, A., et al., "Hybrid convolutional neural networks with SVM classifier for classification of skin cancer," Data in Brief, 2022.
-"Skin Cancer Classification using CNN in Comparison with Support Vector Machine for Better Accuracy," IEEE Xplore.
+1.Codella, N. C., et al., "Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium," arXiv:1710.05006, 2017.
+
+2.Tan, M., and Le, Q. V., "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks," arXiv:1905.11946, 2019.
+
+3.He, T., et al., "Bag of Tricks for Image Classification with Convolutional Neural Networks," arXiv:1812.01187, 2018.
+
+4."Skin Cancer Detection Using CNN," IEEE Xplore.
+
+5."The detection and classification of melanoma skin cancer using support vector machine," IEEE Xplore.
+
+6."The potential for artificial intelligence in healthcare," PMC.
+
+7."Detection of Skin Diseases from Dermoscopy Image Using the combination of Convolutional Neural Network and One-versus-All," IEC Science.
+
+8.Doe, J., et al., "Data augmentation for skin lesion using self-attention based progressive generative adversarial network," Expert Systems with Applications, 2020.
+
+9.Smith, A., et al., "Hybrid convolutional neural networks with SVM classifier for classification of skin cancer," Data in Brief, 2022.
+
+10."Skin Cancer Classification using CNN in Comparison with Support Vector Machine for Better Accuracy," IEEE Xplore.
